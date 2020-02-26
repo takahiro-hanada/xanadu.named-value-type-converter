@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net45</TargetFramework>
+    <RootNamespace>Xanadu</RootNamespace>
+    <Version>1.0.0</Version>
+    <PackageProjectUrl>https://serevo.visualstudio.com/Xanadu</PackageProjectUrl>
+    <Authors>Takahiro Hanada</Authors>
+    <Copyright>© 2020 Takahiro Hanada</Copyright>
+    <PackageProjectUrl>http://github.com/takahiro-hanada/xanadu.named-value-type-converter</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
